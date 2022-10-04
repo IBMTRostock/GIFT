@@ -5,7 +5,7 @@ Measuring fiber diameters as an experimental endpoint or as a means of quality c
 
 Please credit and cite the following papers when using GIFT: 
 
-1)A. Götz, V. Senz, W. Schmidt, J. Huling, N. Grabow, S. Illner, General image fiber tool: A concept for automated evaluation of fiber diameters in SEM images, Measurement 177 (2021) 109265. https://doi.org/10.1016/j.measurement.2021.109265.
+1) A. Götz, V. Senz, W. Schmidt, J. Huling, N. Grabow, S. Illner, General image fiber tool: A concept for automated evaluation of fiber diameters in SEM images, Measurement 177 (2021) 109265. https://doi.org/10.1016/j.measurement.2021.109265.
 
 2) Huling J, Götz A, Grabow N, Illner S (2022) GIFT: An ImageJ macro for automated fiber diameter quantification. PLoS ONE 17(10): e0275528. https://doi.org/10.1371/journal.pone.0275528
 
